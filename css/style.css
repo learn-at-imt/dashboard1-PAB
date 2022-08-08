@@ -22,7 +22,7 @@ body {
     position: fixed;
     width: 300px;
     height: 100%;
-    background: linear-gradient(45deg, #47cebe, #ef4a82);
+    background: linear-gradient(45deg, #349ce4, #47cebe);
     overflow-x: hidden;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     z-index: 2;
@@ -145,7 +145,7 @@ img {
 
 
 .cards .card {
-    background: linear-gradient(45deg, #47cebe, #ef4a82);
+    background: linear-gradient(45deg, #349ce4, #47cebe);
     align-items: center;
     display: flex;
     padding: 20px;
@@ -201,7 +201,7 @@ img {
 }
 
 .btn{
-    background: linear-gradient(45deg, #47cebe, #ef4a82);
+    background: linear-gradient(45deg, #349ce4, #47cebe);
     align-items: center;
     color: #fff;
     text-decoration: none;
